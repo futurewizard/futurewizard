@@ -1,27 +1,12 @@
-# Hey
+# Welcome to my New Git Page!! 
 
-## 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
 
-```markdown
-Syntax highlighted code block
+### I will be working on this as I continue building my portfolio as well as projects I complete.
+### Please be patient while we're under construction.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
